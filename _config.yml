@@ -1,0 +1,8 @@
+title: The Open Source Data Science Masters
+description: Curriculum for Data Science
+google_analytics: UA-43720588-1
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
